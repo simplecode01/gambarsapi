@@ -1,0 +1,8 @@
+[
+    {"nama": "sapi biasa", "deskripsi": "sapi normal", "imageId": "gambar sapi"},
+    {"nama": "sapi merah", "deskripsi": "sapi tapi kulitnya merah gitu", "imageId": "gambar sapi merag"},
+    {"nama": "sapi lokal", "deskripsi": "sapi lokalan", "imageId": "gambar sapi lokal"},
+    {"nama": "sapi internasional", "deskripsi": "sapi internasinal nih", "imageId": "gambar sapi internasional"},
+    {"nama": "sapi kartun", "deskripsi": "ini kartun bang", "imageId": "gambar sapi kartun"},
+    {"nama": "sapi ngeliat", "deskripsi": "ini sapi kenapa ngeliatin gitu ya", "imageId": "gambar sapi ngeliat"}
+]
